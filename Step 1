@@ -1,0 +1,7 @@
+If you have ubuntu installed, get it removed first
+follow the steps
+1. open powershell with administrator 
+2. it's better to have powershell 7
+3. run "wsl --list" #ignore quotation(s)
+4. run "wsl --unregister 'your distro'" #ignore quotation(s)
+5. run again "wsl --list" to confirm its removal #ignore quotation(s)
