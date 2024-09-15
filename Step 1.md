@@ -25,5 +25,5 @@ if you have previously installed VSCode you might want to get rid of it
 follow the steps to get rid of completely   
 1. Uninstall program from add or remove programs in Windows  
 2. open PowerShell and run these two commands  
-	"rm ~/APPDATA/Roaming/Code" #ignore quotation(s)
+	"rm ~/APPDATA/Roaming/Code" #ignore quotation(s)  
 	"rm ~/.vscode" #ignore quotation(s)
