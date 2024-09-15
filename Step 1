@@ -1,7 +1,13 @@
-If you have ubuntu installed, get it removed first
+**If you have ubuntu installed, get it removed first**
 follow the steps
 1. open powershell with administrator 
 2. it's better to have powershell 7
 3. run "wsl --list" #ignore quotation(s)
 4. run "wsl --unregister 'your distro'" #ignore quotation(s)
 5. run again "wsl --list" to confirm its removal #ignore quotation(s)
+
+**Install new distro by opening up terminal in windows**
+1. it will take time to install
+2. put in new username and password
+
+**Install VSCode in your sysytem**
