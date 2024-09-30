@@ -36,7 +36,7 @@ Key features:
 
 ### 3. autos.dat
 
-A tab-delimited data file used by `car_truck.r`, containing sample data for cars, trucks, and SUVs over a five-day period.
+A tab-delimited data file used by `car_truck.r`, containing sample data for cars, trucks, and SUVs over five days.
 
 ## Running the Scripts in VSCode
 
@@ -56,7 +56,7 @@ Once you've completed the setup steps, you can run the test codes:
 
 - The `car_truck.r` script was successfully run on Ubuntu_envy on 9-14-24.
 - Ensure the `autos.dat` file is in the same directory as `car_truck.r` when running it.
-- If you encounter any issues with package installation or script execution, make sure you've correctly followed Steps 1 and 2 of the main guide.
+- If you happen to encounter any issues with package installation or script execution, please make sure you've correctly followed Steps 1 and 2 of the main guide.
 
 ## Troubleshooting
 
@@ -69,8 +69,4 @@ If you encounter issues:
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests with improvements or additional R code examples.
-
-## License
-
-[Specify your license here, e.g., MIT, GPL, etc.]
+You can fix this repository and submit pull requests with improvements or additional R code examples.
